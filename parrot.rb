@@ -7,6 +7,6 @@ def parrot(string)
   else
     puts "Squawk!"
     string = "Squawk!"
-    string
   end
+  string
 end
