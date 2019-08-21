@@ -3,8 +3,12 @@
 def parrot(string)
   if string == FALSE
     string == "Squawk"
+    puts "#{string}"
   else
     puts "#{string}"
+  end
+  string
+end
   
   
   
